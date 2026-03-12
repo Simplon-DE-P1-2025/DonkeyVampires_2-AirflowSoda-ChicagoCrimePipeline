@@ -1,3 +1,16 @@
+# Astro & Airflow
+.astro/
+.env
+airflow_settings.yaml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+soda_venv/
+EOF
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
